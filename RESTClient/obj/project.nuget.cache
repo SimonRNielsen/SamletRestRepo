@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CgAZLEr5VBM=",
+  "success": true,
+  "projectFilePath": "D:\\GitHub\\SimonRNielsen\\RESTClient\\RESTClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Simon\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
