@@ -71,23 +71,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Simon\\.nuget\\packages\\": {},
+    "C:\\Users\\oblit\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GitHub\\SimonRNielsen\\RESTClient\\RESTClient.csproj",
+      "projectUniqueName": "D:\\GitHub\\SimonRNielsen\\SamletRestRepo\\RESTClient\\RESTClient.csproj",
       "projectName": "RESTClient",
-      "projectPath": "D:\\GitHub\\SimonRNielsen\\RESTClient\\RESTClient.csproj",
-      "packagesPath": "C:\\Users\\Simon\\.nuget\\packages\\",
-      "outputPath": "D:\\GitHub\\SimonRNielsen\\RESTClient\\obj\\",
+      "projectPath": "D:\\GitHub\\SimonRNielsen\\SamletRestRepo\\RESTClient\\RESTClient.csproj",
+      "packagesPath": "C:\\Users\\oblit\\.nuget\\packages\\",
+      "outputPath": "D:\\GitHub\\SimonRNielsen\\SamletRestRepo\\RESTClient\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Simon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\oblit\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -103,8 +103,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\GitHub\\SimonRNielsen\\SharedLibrary\\SharedLibrary.csproj": {
-              "projectPath": "D:\\GitHub\\SimonRNielsen\\SharedLibrary\\SharedLibrary.csproj"
+            "D:\\GitHub\\SimonRNielsen\\SamletRestRepo\\SharedLibrary\\SharedLibrary.csproj": {
+              "projectPath": "D:\\GitHub\\SimonRNielsen\\SamletRestRepo\\SharedLibrary\\SharedLibrary.csproj"
             }
           }
         }

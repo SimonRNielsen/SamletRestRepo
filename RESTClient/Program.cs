@@ -407,7 +407,10 @@ namespace RESTClient
 
         }
 
-
+        /// <summary>
+        /// Async method to get the public key from a server
+        /// </summary>
+        /// <returns>A KeyString</returns>
         private static async Task<KeyString?> GetKey()
         {
 
@@ -427,7 +430,10 @@ namespace RESTClient
 
         }
 
-
+        /// <summary>
+        /// Async method that can be used as a "heartbeat"
+        /// </summary>
+        /// <returns>true if connection was successfull</returns>
         private static async Task<bool> Heartbeat()
         {
 
@@ -443,7 +449,10 @@ namespace RESTClient
 
         }
 
-
+        /// <summary>
+        /// Async method to create a new user
+        /// </summary>
+        /// <returns>Reply from server</returns>
         private static async Task<ServerReply?> CreateUser()
         {
 
@@ -487,7 +496,10 @@ namespace RESTClient
 
         }
 
-
+        /// <summary>
+        /// Async method to attempt to log in
+        /// </summary>
+        /// <returns>Reply from server</returns>
         private static async Task<object?> Login()
         {
 
@@ -538,6 +550,10 @@ namespace RESTClient
 
         }
 
+        /// <summary>
+        /// Method to broadcast string message from server (not needed)
+        /// </summary>
+        /// <param name="message">String to broadcast</param>
         private static void Message(string message)
         {
 
