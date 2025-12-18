@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RESTClient")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ad1f445045115e94305b56d20a5cc651451e8903")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+08948cf86b9e7d9605529b22d91706e45ee26322")]
 [assembly: System.Reflection.AssemblyProductAttribute("RESTClient")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RESTClient")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

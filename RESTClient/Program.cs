@@ -3,6 +3,7 @@ using SharedLibrary;
 using System.Diagnostics;
 using System.Net;
 using System.Text;
+using System.Threading.Tasks;
 
 namespace RESTClient
 {
@@ -22,7 +23,7 @@ namespace RESTClient
 
         private static readonly HttpClient client = new HttpClient();
         private static readonly float interval = 20;
-        private static readonly string baseURL = "https://localhost:32773/RESTServer/", clientPrivateKey, clientPublicKey;
+        private static readonly string baseURL = "https://localhost:7068/RESTServer/", clientPrivateKey, clientPublicKey;
         private static readonly object transitionLock = new object();
         private static readonly List<RequestEndPoint> requiresData = new List<RequestEndPoint>
         {

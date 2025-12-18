@@ -30,7 +30,7 @@ namespace SharedLibrary
         /// <summary>
         /// Encrypts and formats string for serialization into Json format to POSTing @ server
         /// </summary>
-        /// <param name="input">String that must be encrypted using the servers public key</param>
+        /// <param name="input">String that must be encrypted using the recipients public key</param>
         /// <returns>Encrypted and formatted string</returns>
         public static string RSAEncryptStringToString(string input, string publicKey)
         {

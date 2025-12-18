@@ -9,3 +9,15 @@ D:\GitHub\SimonRNielsen\SharedLibrary\obj\Debug\net8.0\SharedLibrary.dll
 D:\GitHub\SimonRNielsen\SharedLibrary\obj\Debug\net8.0\refint\SharedLibrary.dll
 D:\GitHub\SimonRNielsen\SharedLibrary\obj\Debug\net8.0\SharedLibrary.pdb
 D:\GitHub\SimonRNielsen\SharedLibrary\obj\Debug\net8.0\ref\SharedLibrary.dll
+D:\GitHub\SimonRNielsen\SamletRestRepo\SharedLibrary\bin\Debug\net8.0\SharedLibrary.deps.json
+D:\GitHub\SimonRNielsen\SamletRestRepo\SharedLibrary\bin\Debug\net8.0\SharedLibrary.dll
+D:\GitHub\SimonRNielsen\SamletRestRepo\SharedLibrary\bin\Debug\net8.0\SharedLibrary.pdb
+D:\GitHub\SimonRNielsen\SamletRestRepo\SharedLibrary\obj\Debug\net8.0\SharedLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\SimonRNielsen\SamletRestRepo\SharedLibrary\obj\Debug\net8.0\SharedLibrary.AssemblyInfoInputs.cache
+D:\GitHub\SimonRNielsen\SamletRestRepo\SharedLibrary\obj\Debug\net8.0\SharedLibrary.AssemblyInfo.cs
+D:\GitHub\SimonRNielsen\SamletRestRepo\SharedLibrary\obj\Debug\net8.0\SharedLibrary.csproj.CoreCompileInputs.cache
+D:\GitHub\SimonRNielsen\SamletRestRepo\SharedLibrary\obj\Debug\net8.0\SharedLibrary.sourcelink.json
+D:\GitHub\SimonRNielsen\SamletRestRepo\SharedLibrary\obj\Debug\net8.0\SharedLibrary.dll
+D:\GitHub\SimonRNielsen\SamletRestRepo\SharedLibrary\obj\Debug\net8.0\refint\SharedLibrary.dll
+D:\GitHub\SimonRNielsen\SamletRestRepo\SharedLibrary\obj\Debug\net8.0\SharedLibrary.pdb
+D:\GitHub\SimonRNielsen\SamletRestRepo\SharedLibrary\obj\Debug\net8.0\ref\SharedLibrary.dll

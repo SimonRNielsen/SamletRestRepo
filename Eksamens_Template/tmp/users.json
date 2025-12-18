@@ -1,3 +1,8 @@
 [
-  
+  {
+    "Name": "Simon",
+    "Email": "Simon@test.dk",
+    "Password": "6yPAMzxiQL3mS64XO1U/DBnpQ+59+TqhEk60qvKum0c=",
+    "Salt": "kfX0YbcGaamfGU+nECrvKA=="
+  }
 ]
